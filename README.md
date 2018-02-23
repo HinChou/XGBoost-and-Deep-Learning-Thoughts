@@ -1,2 +1,13 @@
 # XGBoost-and-Deep-Learning-Thoughts
-Comparison between XGBoost and Deep Learning, and Create New Formats Which Combining Both...
+Comparison between XGBoost and Deep Learning Algorithms(CNN & RNN, etc.), and Create New Formats Which Combining Both...
+
+## XGBoost:
+Search wikipedia and github
+
+## Deep Learning Algorithms:
+Search wikipedia and github
+
+## Combining XGBoost and Deep Learning Algorithms:
+Use boosting algorithm for framework, set weak learner as CNN or RNN for base learner. Set low learning rate and use CV or OOB for predictive ability testing.
+
+
