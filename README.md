@@ -8,6 +8,6 @@ Search wikipedia and github
 Search wikipedia and github
 
 ## Combining XGBoost and Deep Learning Algorithms:
-Use boosting algorithm for framework, set weak learner as CNN or RNN for base learner. Set low learning rate and use CV or OOB for predictive ability testing.
+Use boosting algorithm for framework, set weak learner as one hidden layer ANN(LSTM, CNN or RNN) for base learner. Set low learning rate and use CV or OOB for predictive ability testing.
 
 
