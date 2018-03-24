@@ -10,6 +10,8 @@ Search wikipedia and github
 Is LSTM better than CNN or RNN for time series analysis?
 
 ## Combining XGBoost and Deep Learning Algorithms:
-Use boosting algorithm for framework, set weak learner as one hidden layer ANN(LSTM, CNN or RNN) for base learner. Set low learning rate and use CV or OOB for predictive ability testing.
+* Use boosting algorithm for framework. 
+* Set weak learner as one hidden layer ANN(LSTM, CNN or RNN). 
+* Set low learning rate and use CV or OOB for predictive ability testing.
 
 
