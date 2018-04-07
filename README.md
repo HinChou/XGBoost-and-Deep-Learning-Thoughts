@@ -7,7 +7,8 @@ Search wikipedia and github
 ## Deep Learning Algorithms:
 Search wikipedia and github
 ### Question:
-Is LSTM better than CNN or RNN for time series analysis?
+* Is LSTM better than CNN or RNN for time series analysis?
+* What is GAN(Generative Adversarial Networks)?
 
 ## Combining XGBoost and Deep Learning Algorithms:
 * Use boosting algorithm for framework. 
