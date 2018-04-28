@@ -16,4 +16,6 @@ Search wikipedia and github
 * Set weak learner(aka base leaner) as one hidden layer ANN(LSTM, CNN or RNN). 
 * Set low learning rate and use CV or OOB for predictive ability testing.
 
+## Questions:
+* What kind of data should I use for this?
 
