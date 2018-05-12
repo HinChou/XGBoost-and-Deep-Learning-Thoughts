@@ -19,3 +19,4 @@ Search wikipedia and github
 ## Questions:
 * What kind of data should I use for this?
 * What many data should I use for this?
+* When & where can I achieve this topic?
