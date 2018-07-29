@@ -1,5 +1,5 @@
 # XGBoost-and-Deep-Learning-Thoughts
-Comparison Between XGBoost and Deep Learning Algorithms(LSTM, CNN and RNN, etc.), and Create New Formats Which Combining Both.
+Comparison Between XGBoost and Deep Learning Algorithms(LSTM, CNN and RNN, etc.), and Create New Formats Which Combined Both.
 
 ## XGBoost:
 Search wikipedia and github
