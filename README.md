@@ -12,9 +12,10 @@ Search wikipedia and github
 * What is collaborative filtering recommendation?
 
 ## Combining XGBoost and Deep Learning Algorithms:
-* Use boosting algorithm for framework. 
+* Use boosting algorithm for outer framework. 
 * Set weak learner(aka base leaner) as one hidden layer ANN(LSTM, CNN or RNN). 
 * Set low learning rate and use CV or OOB for predictive ability test.
+* Could CV also be used to do the feature selection?
 
 ## Questions:
 * What kind of data should I use for this?
