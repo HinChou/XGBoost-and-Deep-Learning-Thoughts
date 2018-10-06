@@ -21,4 +21,4 @@ Search wikipedia and github
 * What kind of data should I use for this?
 * How many data should I use for this?
 * When & where can I achieve this toic?
-* Heard about AlphaGo used similar framework(tree ensemble works with nerual network), interesting coincidence. 
+* Heard about AlphaGo also used similar framework(tree ensemble works with nerual network), interesting coincidence. 
