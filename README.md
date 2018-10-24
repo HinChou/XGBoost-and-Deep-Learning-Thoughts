@@ -22,3 +22,4 @@ Search wikipedia and github
 * How many data should I use for this?
 * When & where can I achieve this toic?
 * Heard about AlphaGo also used similar framework(tree ensemble works with nerual network), interesting coincidence, right? 
+* Need to come up a way to train the model by using GPU(AMD) on my PC as a demo.
