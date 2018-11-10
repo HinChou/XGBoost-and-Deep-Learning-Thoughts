@@ -24,3 +24,4 @@ Search wikipedia and github
 * When, where & how can I achieve this topic?
 * Heard about AlphaGo also used similar framework(tree ensemble works with nerual network), interesting coincidence, right? 
 * Need to come up a way to train the model by using GPU(AMD) on my PC as a demo.
+* Where can I use this framework? How does this framework solve real world problem?
