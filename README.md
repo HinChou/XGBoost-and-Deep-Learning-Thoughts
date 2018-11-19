@@ -6,7 +6,7 @@ Search wikipedia and github
 
 pros: Always get nice results for medium size of data.
 
-cons: Lacking CV for feature selection, but I fix this by rewrited the fuction.
+cons: Lacking CV for feature selection, but I fix this by rewrited the function.
 
 ## Deep Learning Algorithms:
 Search wikipedia and github
