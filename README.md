@@ -25,7 +25,7 @@ cons: Hard to figure out the insight of the algorithm.
 * Set weak learner(aka base leaner) as one hidden layer ANN(LSTM, CNN or RNN). 
 * Set low learning rate and use CV or OOB for predictive ability test.
 * Could CV also be used to do the feature selection for this new framework?
-* Need to find a way to figure out how to reduce the number of feature instead of sacrificing too much performance.
+* Need to find a way to figure out how to reduce the number of features instead of sacrificing too much performance.
 
 ## Questions:
 * What kind of data should I use for this?
