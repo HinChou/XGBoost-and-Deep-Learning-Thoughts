@@ -28,7 +28,8 @@ cons: Hard to figure out the insight of the algorithm.
 * Need to find a way to figure out how to reduce the number of features instead of sacrificing too much performance.
 
 ## Questions:
-* What kind of data should I use for this?
+* What kind of data should I use for this? 
+* Is there any open source framework support my thought?
 * How many data should I use for this?
 * When, where & how can I achieve this topic?
 * Heard about AlphaGo also used similar framework(tree ensemble works with nerual network), interesting coincidence, right? 
